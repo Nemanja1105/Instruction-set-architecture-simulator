@@ -1,0 +1,10 @@
+mov rax,5
+mov rbx,10
+cmp rax,rbx
+jge end1
+jl end2
+
+end1:
+mov rax,9
+end2:
+mov rbx,20

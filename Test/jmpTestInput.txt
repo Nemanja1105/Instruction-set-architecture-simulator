@@ -1,0 +1,5 @@
+mov rax,5
+jmp end
+mov rax,6
+end:
+mov rbx,4

@@ -1,0 +1,6 @@
+mov rax, 5
+mov rbx, 10
+add rax, rbx
+sub rax, 3
+mul 11
+div 3

@@ -1,0 +1,16 @@
+mov         rax      ,    5
+mov [0x101],     13
+
+
+BREAKPOINT
+mov        rbx,6
+
+cmp rax,rbx
+jl              end
+
+
+print  rax
+
+end:
+
+print             rbx

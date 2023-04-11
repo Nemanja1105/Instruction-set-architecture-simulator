@@ -1,0 +1,4 @@
+mov rax, 157
+mov rbx, 111
+print rax
+print rbx

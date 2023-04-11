@@ -1,0 +1,3 @@
+mov rax,5
+mov rax,10
+mov rax,15

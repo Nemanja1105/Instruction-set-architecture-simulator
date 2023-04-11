@@ -1,0 +1,3 @@
+mov rax,6
+mov rbx,3
+cmp rax,rbx

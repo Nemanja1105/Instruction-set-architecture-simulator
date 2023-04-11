@@ -1,0 +1,3 @@
+mov [0x101], 5
+mov rax,0x101
+mov rbx,[rax]

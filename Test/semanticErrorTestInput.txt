@@ -1,0 +1,2 @@
+mov 5,rax
+jmp end

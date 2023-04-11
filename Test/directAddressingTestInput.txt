@@ -1,0 +1,5 @@
+mov [0x120], 15
+mov [0x135], 45
+mov rbx,[0x120]
+mov rax,[0x135]
+add rax, rbx

@@ -1,0 +1,4 @@
+
+mov rax,rbx
+mooov rcx, rdx
+add rax, rbdx

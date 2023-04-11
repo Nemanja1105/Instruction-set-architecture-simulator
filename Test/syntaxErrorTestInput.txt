@@ -1,0 +1,4 @@
+start
+mov rax
+jmp end
+mov rax,[11a]
